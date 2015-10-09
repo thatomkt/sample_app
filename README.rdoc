@@ -1,6 +1,6 @@
 == README
 
-This README is for Thato's sample app.
+This README is for Thato's sample app,this is the playground!!!.
 
 Things you may want to cover:
 
